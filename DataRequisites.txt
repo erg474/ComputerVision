@@ -1,0 +1,8 @@
+There are certain prerequesites for data if it is to be trained using Deep Learning.
+And for machine learning in general, there are methods for removing unreliability from data.
+
+Need to separate images into training, testing and validation sets as a requirement to train the model properly.
+
+Proper directory structure:
+A data folder with 3 subfolders: train, validation and test
+Each subfolder has two subfolders, dog and cat. These represent class names and there should be as many of these as there are distinct classes.
